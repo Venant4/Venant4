@@ -1,6 +1,6 @@
 - 👋 Bonjour, je suis Venant
 - 👀 Je suis interessé par la finance et les outils de programmation
-- 🌱 Actuellement je fais la Finance et Ingénierie Décisionnelle
+- 🌱 Actuellement je fais la Finance de marché
 
 
 <!---
